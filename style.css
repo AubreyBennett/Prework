@@ -1,0 +1,44 @@
+<style type="text/css">
+body {
+    color:black;
+    background-color:white;
+}
+h1 {
+    text-align:center;
+}
+p.red {
+    color: red;
+}
+p.blue {
+    color: blue;
+}
+p.green {
+    color: green;
+}
+p.big {
+    font-size: x-large
+}
+p.tiny {
+    font-size: x-small;
+}
+p.center {
+    text-align: center;
+}
+p.bold{
+    font-weight: bold;
+}
+p.font {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p.three {
+    color: orange;
+    font-weight: bold;
+    font-size: x-large;
+}
+p.styledFont {
+    color: green;
+}
+img {
+    border: 5px solid orange;
+}
+</style>
